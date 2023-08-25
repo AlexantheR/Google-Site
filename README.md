@@ -1,1 +1,1 @@
-https://sites.google.com/view/acdportfolio
+During the Google UX Certificate I learnt how to come up with ideas for design solutions, how to use Figma and Adobe XD, conduct usability studies, User Experience Research and Design. The final task of the course was to make the following website: https://sites.google.com/view/acdportfolio
